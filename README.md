@@ -1,3 +1,15 @@
+ASP.NET Core with the dotnet CLI
+The projects in this repository show working examples using the dotnet CLI and ASP.NET 5. This is a work in progress.
+
+How to run
+
+Get the .NET Core SDK http://dot.net
+Clone this repo
+run dotnet restore in the FrontWeb folder
+Navigate to FrontWeb and run dotnet run
+Navigate to http://localhost:5000 in the browser
+
+old one
 # Welcome to ASP.NET 5
 
 We've made some big updates in this release, so it’s **important** that you spend a few minutes to learn what’s new.
